@@ -12,19 +12,19 @@
 <pre>✦ ⋆ ─────── Projects ─────── ⋆ ✦</pre>
 		<ul>
 			<li>
-				<a href='https://canvas.playground.htsuyoshiy.online/'>Pure canvas projects</a>
+				<a href='https://canvas.playground.htsuyoshiy.com.br/'>Pure canvas projects</a>
 				<p class='description'>
 					Projects using the <code>&lt;canvas&gt;</code> element to simulate physics and algorithms
 				</p>
 			</li>
 			<li>
-				<a href='https://flashcards.playground.htsuyoshiy.online/'>Flashcards</a>
+				<a href='https://flashcards.playground.htsuyoshiy.com.br/'>Flashcards</a>
 				<p class='description'>
 					Simple web application game that consumes <a href='https://kanjiapi.dev/' target='_blank'>kanjiapi</a>
 				</p>
 			</li>
 			<li>
-				<a href='https://lyrics.playground.htsuyoshiy.online/'>Lyrics</a>
+				<a href='https://lyrics.playground.htsuyoshiy.com.br/'>Lyrics</a>
 				<p class='description'>
 					Cool effects to visualize music lyrics
 				</p>
